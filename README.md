@@ -1,6 +1,6 @@
-# University-Award-Calculation-System-JavaFX-GUI
+# University-Award-Calculation-System-JavaFX-PP-GUI
 
-Java based University Award Calculation System. 
+Java based University Award Calculation System. [Procedural Programming] 
 
 JavaFX has been used to build the Interface.
 
