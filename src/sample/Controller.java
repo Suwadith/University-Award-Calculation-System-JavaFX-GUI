@@ -566,29 +566,29 @@ public class Controller {
         }
 
         if (credit >= 300){
-            finalResult.setText("The Student is Eligible to get a Non-Honors Degree");
+            finalResult.setText("The Student is Eligible to get a Non-Honours Degree");
             finalResult.setVisible(true);
         }
 
         if (credit >= 360){
 
             if(l5CreditAverage+l6CreditAverage>=40){
-                finalResult.setText("The Student is Eligible to get a 3rd class Honors Degree");
+                finalResult.setText("The Student is Eligible to get a 3rd class Honours Degree");
                 finalResult.setVisible(true);
             }
 
             if(l5CreditAverage+l6CreditAverage>=50){
-                finalResult.setText("The Student is Eligible to get 2nd a class Honors Lower Division Degree");
+                finalResult.setText("The Student is Eligible to get 2nd a class Honours Lower Division Degree");
                 finalResult.setVisible(true);
             }
 
             if(l5CreditAverage+l6CreditAverage>=60){
-                finalResult.setText("The Student is Eligible to get a 2nd class Honors Upper Division Degree");
+                finalResult.setText("The Student is Eligible to get a 2nd class Honours Upper Division Degree");
                 finalResult.setVisible(true);
             }
 
             if(l5CreditAverage+l6CreditAverage>=70){
-                finalResult.setText("The Student is Eligible to get a 1st class Honors Degree");
+                finalResult.setText("The Student is Eligible to get a 1st class Honours Degree");
                 finalResult.setVisible(true);
             }
         }
