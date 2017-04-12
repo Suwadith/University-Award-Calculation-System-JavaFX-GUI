@@ -14,6 +14,11 @@ Depending on the amount of Credits scored by the student, He/She will be eligibl
 - Above 240 credits: Eligible to get a Diploma in Higher Education
 - Above 300 credits: Eligible to get a Non-Honours Degree
 - 360 credits: Eligible to get a Honours Degree
+
+![scr1](http://i.imgur.com/R6gdbPE.png "Screenshot 1")
+
+![scr2](http://i.imgur.com/jcZfIVR.png "Screenshot 2")
+
                 
                 
 
